@@ -1,0 +1,30 @@
+{
+  "name": "iesmo",
+  "version": "0.0.1",
+  "description": "A fast ESM tools",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyong008/iesm.git",
+    "branch": "master",
+    "platform": "github"
+  },
+  "files": [
+    "src/*"
+  ],
+  "keywords": [
+    "esm",
+    "node",
+    "__filename",
+    "__dirname"  
+  ],
+  "author": "magesium",
+  "license": "MIT"
+}
