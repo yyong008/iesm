@@ -1,6 +1,6 @@
 {
   "name": "iesmo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fast ESM tools",
   "main": "src/index.js",
   "type": "module",
@@ -23,8 +23,8 @@
     "esm",
     "node",
     "__filename",
-    "__dirname"  
+    "__dirname",
+    "README.md"
   ],
-  "author": "magesium",
-  "license": "MIT"
+  "author": "magesium"
 }

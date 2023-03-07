@@ -1,8 +1,6 @@
 import { fileURLToPath } from "node:url";
 import { dirname } from "node:path"
 
-console.log(fileURLToPath(import.meta.url));
-
 /**
  * 
  * @param {Object} importMeta esm import.meta
